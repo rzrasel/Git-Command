@@ -1,3 +1,12 @@
+$ git init
+$ git remote add RepoName RepoURL
+$ git checkout -b NAME-OF-BRANCH
+$ git add . ----> Add all the files and folder as git staged'
+$ git commit -m "Your Commit Message" - - - >Commit the message
+$ git push - - - - >Push the changes to the upstream
+
+
+
 Here is the complete process to create a local repo and push the changes to new remote branch
 
 Creating local repository:-
