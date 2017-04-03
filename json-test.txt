@@ -1,1 +1,1 @@
-[{"name":"Ravi Tamada","id":"c200"},{"name":"Johnny Depp","id":"c201"},{"name":"Leonardo Dicaprio","id":"c202"},{"name":"Rz Rasel","id":"c203"}]
+[{"channel_name":"Ravi Tamada","logo_url":"c200","streaming_url":"url_001"},{"channel_name":"Johnny Depp","logo_url":"c201","streaming_url":"url_002"},{"channel_name":"Leonardo Dicaprio","logo_url":"c202","streaming_url":"url_003"},{"channel_name":"Rz Rasel","logo_url":"c203","streaming_url":"url_004"}]
