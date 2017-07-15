@@ -95,3 +95,24 @@ You need to be in the master branch.
 
 git checkout master
 git merge NAME-OF-BRANCH
+
+
+
+
+
+
+
+git init
+git remote add DemoTypicalDutchEmoji git@bitbucket.org:typical-dutch-emoji-keyboard.git
+git checkout -b Demo-Typical-Dutch-Emoji-Keyboard-Backup
+git pull https://typical-dutch-emoji-keyboard.git
+git add .
+git commit -m "add new"
+git push https://typical-dutch-emoji-keyboard.git --all
+
+
+git pull <remote> <branch>
+git pull https://typical-dutch-emoji-keyboard.git Demo-Typical-Dutch-Emoji-Keyboard-Backup
+
+git push <remote> <branch>
+git push https://typical-dutch-emoji-keyboard.git Demo-Typical-Dutch-Emoji-Keyboard-Backup  (NOT WORK)
