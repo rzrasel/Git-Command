@@ -1,7 +1,7 @@
 # Git Command
 **Git revision control as follows**
 
-[![N|Solid](https://raw.githubusercontent.com/rzrasel/Git-Command/master/image/power-rzrasel.png)](http://rzrasel.net/)
+[![N|Solid](https://raw.githubusercontent.com/rzrasel/Git-Command/master/power-rzrasel.png)](http://rzrasel.net/)
 
 
 ### Create a new local repository
