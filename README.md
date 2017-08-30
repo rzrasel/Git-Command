@@ -1,7 +1,7 @@
 # Git Command
 **Git revision control as follows**
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://raw.githubusercontent.com/rzrasel/Git-Command/master/image/power-rzrasel.png)](http://rzrasel.net/)
 
 
 ### Create a new local repository
